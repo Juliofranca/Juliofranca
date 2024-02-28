@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Júlio César👋
 
 - 🧑‍💻 Atualmente estou trabalhando em um projeto pessoal de sistema de cadastro.
-- 📚 Estou estudando Node.js e Sql
+- 📚 Estou estudando Node.js/Express & Sql
 - 😄 Pronomes: Ele/dele
 
 ##
