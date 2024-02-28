@@ -2,7 +2,6 @@
 
 - 🧑‍💻 Atualmente estou trabalhando em um projeto pessoal de sistema de cadastro.
 - 📚 Estou estudando Node.js e Sql
-- ✉️ Contate-me no email: juliocesar.fs96@gmail.com
 - 😄 Pronomes: Ele/dele
 
 ##
